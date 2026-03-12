@@ -1,1 +1,0 @@
-Módulos Python (integração LIME, chamadas ao SLM)
